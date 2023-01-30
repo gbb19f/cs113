@@ -1,2 +1,7 @@
 Welcome to b text 
+<<<<<<< HEAD
 aHewl
+=======
+asdasd
+asdasdasd
+>>>>>>> feature2
